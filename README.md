@@ -17,7 +17,7 @@ As per usual, add that puppy to your Gemfile:
 
 ## Configuration
 
-```
+```ruby
 Lita.configure do |config|
   ...
   config.handlers.static_meme.mapping = {
