@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     lita-static-meme (1.0.0)
-      lita (~> 2.0)
+      lita (~> 2.5)
 
 GEM
   remote: https://rubygems.org/
