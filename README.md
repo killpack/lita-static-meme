@@ -30,5 +30,7 @@ end
 
 ## Usage
 Given the configuration above:
-`jordan_killpack`: `blah blah blah she should just deal with it`
+
+`jordan_killpack`: `blah blah blah she should just deal with it already`
+
 `Lita`: ![DEAL WITH IT](http://i.imgur.com/ykDuU.gif)
