@@ -13,7 +13,7 @@ specify a mapping between regular expressions and URLs? (I would!)
 
 As per usual, add that puppy to your Gemfile:
 
-`gem 'lita-static-meme', github: 'killpack/lita-static-meme'`
+`gem 'lita-static-meme'`
 
 ## Configuration
 
